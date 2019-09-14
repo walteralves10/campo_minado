@@ -20,7 +20,7 @@ public class MapaDoJogo extends javax.swing.JFrame {
     public MapaDoJogo() {
         initComponents();
     }
-    public static int cont = 0;
+    public static int cont=0;
 
     /**
      * This method is called from within the constructor to initialize the form.
@@ -869,19 +869,19 @@ public class MapaDoJogo extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jbtn1x1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn1x1ActionPerformed
-
+        
         jbtn1x1.setText("*");//1
         JOptionPane.showMessageDialog(null, "BOOM!");
-        CadastraUsuario cad = new CadastraUsuario();
-        cad.setVisible(true);
+        Menu menu = new Menu();
+        menu.setVisible(true);
         this.setVisible(false);
     }//GEN-LAST:event_jbtn1x1ActionPerformed
 
     private void jbtn3x3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn3x3ActionPerformed
         jbtn3x3.setText("*");//2
         JOptionPane.showMessageDialog(null, "BOOM!");
-        CadastraUsuario cad = new CadastraUsuario();
-        cad.setVisible(true);
+        Menu menu = new Menu();
+        menu.setVisible(true);
         this.setVisible(false);
     }//GEN-LAST:event_jbtn3x3ActionPerformed
 
@@ -889,113 +889,113 @@ public class MapaDoJogo extends javax.swing.JFrame {
 
         jbtn2x7.setText("*");//3
         JOptionPane.showMessageDialog(null, "BOOM!");
-        CadastraUsuario cad = new CadastraUsuario();
-        cad.setVisible(true);
+        Menu menu = new Menu();
+        menu.setVisible(true);
         this.setVisible(false);
     }//GEN-LAST:event_jbtn2x7ActionPerformed
 
     private void jbtn8x6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn8x6ActionPerformed
         jbtn8x6.setText("*");//4
         JOptionPane.showMessageDialog(null, "BOOM!");
-        CadastraUsuario cad = new CadastraUsuario();
-        cad.setVisible(true);
+        Menu menu = new Menu();
+        menu.setVisible(true);
         this.setVisible(false);
     }//GEN-LAST:event_jbtn8x6ActionPerformed
 
     private void jbtn7x2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn7x2ActionPerformed
         jbtn7x2.setText("*");//5
         JOptionPane.showMessageDialog(null, "BOOM!");
-        CadastraUsuario cad = new CadastraUsuario();
-        cad.setVisible(true);
+        Menu menu = new Menu();
+        menu.setVisible(true);
         this.setVisible(false);
     }//GEN-LAST:event_jbtn7x2ActionPerformed
 
     private void jbtn6x6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn6x6ActionPerformed
         jbtn6x6.setText("*");//6
         JOptionPane.showMessageDialog(null, "BOOM!");
-        CadastraUsuario cad = new CadastraUsuario();
-        cad.setVisible(true);
+        Menu menu = new Menu();
+        menu.setVisible(true);
         this.setVisible(false);
     }//GEN-LAST:event_jbtn6x6ActionPerformed
 
     private void jbtn5x4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn5x4ActionPerformed
         jbtn5x4.setText("*");//7
         JOptionPane.showMessageDialog(null, "BOOM!");
-        CadastraUsuario cad = new CadastraUsuario();
-        cad.setVisible(true);
+        Menu menu = new Menu();
+        menu.setVisible(true);
         this.setVisible(false);
     }//GEN-LAST:event_jbtn5x4ActionPerformed
 
     private void jbtn4x5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn4x5ActionPerformed
         jbtn4x5.setText("*");//8
         JOptionPane.showMessageDialog(null, "BOOM!");
-        CadastraUsuario cad = new CadastraUsuario();
-        cad.setVisible(true);
+        Menu menu = new Menu();
+        menu.setVisible(true);
         this.setVisible(false);
     }//GEN-LAST:event_jbtn4x5ActionPerformed
 
     private void jbtn3x2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn3x2ActionPerformed
         jbtn3x2.setText("*");//9
         JOptionPane.showMessageDialog(null, "BOOM!");
-        CadastraUsuario cad = new CadastraUsuario();
-        cad.setVisible(true);
+        Menu menu = new Menu();
+        menu.setVisible(true);
         this.setVisible(false);
     }//GEN-LAST:event_jbtn3x2ActionPerformed
 
     private void jbtn2x5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn2x5ActionPerformed
         jbtn2x5.setText("*");//10
         JOptionPane.showMessageDialog(null, "BOOM!");
-        CadastraUsuario cad = new CadastraUsuario();
-        cad.setVisible(true);
+        Menu menu = new Menu();
+        menu.setVisible(true);
         this.setVisible(false);
     }//GEN-LAST:event_jbtn2x5ActionPerformed
 
     private void jbtn4x6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn4x6ActionPerformed
         jbtn4x6.setText("*");//11
         JOptionPane.showMessageDialog(null, "BOOM!");
-        CadastraUsuario cad = new CadastraUsuario();
-        cad.setVisible(true);
+        Menu menu = new Menu();
+        menu.setVisible(true);
         this.setVisible(false);
     }//GEN-LAST:event_jbtn4x6ActionPerformed
 
     private void jbtn5x1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn5x1ActionPerformed
         jbtn5x1.setText("*");//12
         JOptionPane.showMessageDialog(null, "BOOM!");
-        CadastraUsuario cad = new CadastraUsuario();
-        cad.setVisible(true);
+        Menu menu = new Menu();
+        menu.setVisible(true);
         this.setVisible(false);
     }//GEN-LAST:event_jbtn5x1ActionPerformed
 
     private void jbtn3x7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn3x7ActionPerformed
         jbtn3x7.setText("*");//13
         JOptionPane.showMessageDialog(null, "BOOM!");
-        CadastraUsuario cad = new CadastraUsuario();
-        cad.setVisible(true);
+        Menu menu = new Menu();
+        menu.setVisible(true);
         this.setVisible(false);
     }//GEN-LAST:event_jbtn3x7ActionPerformed
 
     private void jbtn2x2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn2x2ActionPerformed
         jbtn2x2.setText("*");//14
         JOptionPane.showMessageDialog(null, "BOOM!");
-        CadastraUsuario cad = new CadastraUsuario();
-        cad.setVisible(true);
+        Menu menu = new Menu();
+        menu.setVisible(true);
         this.setVisible(false);
     }//GEN-LAST:event_jbtn2x2ActionPerformed
 
     private void jbtn6x8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn6x8ActionPerformed
         jbtn6x8.setText("*");//15
         JOptionPane.showMessageDialog(null, "BOOM!");
-        CadastraUsuario cad = new CadastraUsuario();
-        cad.setVisible(true);
+        Menu menu = new Menu();
+        menu.setVisible(true);
         this.setVisible(false);
-
+        
     }//GEN-LAST:event_jbtn6x8ActionPerformed
 
     private void jbtn2x3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn2x3ActionPerformed
         jbtn2x3.setText("*");//16
         JOptionPane.showMessageDialog(null, "BOOM!");
-        CadastraUsuario cad = new CadastraUsuario();
-        cad.setVisible(true);
+        Menu menu = new Menu();
+        menu.setVisible(true);
         this.setVisible(false);
     }//GEN-LAST:event_jbtn2x3ActionPerformed
 
@@ -1003,7 +1003,7 @@ public class MapaDoJogo extends javax.swing.JFrame {
         jbtn1x2.setText("2");//1
         cont++;
         jbtn1x2.setEnabled(false);
-
+        
     }//GEN-LAST:event_jbtn1x2ActionPerformed
 
     private void jbtn1x3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn1x3ActionPerformed
@@ -1061,7 +1061,7 @@ public class MapaDoJogo extends javax.swing.JFrame {
     }//GEN-LAST:event_jbtn2x6ActionPerformed
 
     private void jbtn2x8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn2x8ActionPerformed
-        jbtn2x8.setText("4");
+       jbtn2x8.setText("4");
         cont++;
         jbtn2x8.setEnabled(false);
     }//GEN-LAST:event_jbtn2x8ActionPerformed
@@ -1141,7 +1141,7 @@ public class MapaDoJogo extends javax.swing.JFrame {
     private void jbtn5x3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn5x3ActionPerformed
         jbtn5x3.setText("1");
         cont++;
-        jbtn5x3.setEnabled(false);
+        this.setEnabled(false);
     }//GEN-LAST:event_jbtn5x3ActionPerformed
 
     private void jbtn5x5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn5x5ActionPerformed
@@ -1205,7 +1205,7 @@ public class MapaDoJogo extends javax.swing.JFrame {
     }//GEN-LAST:event_jbtn6x7ActionPerformed
 
     private void jbtn7x1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn7x1ActionPerformed
-        jbtn7x1.setText("4");
+       jbtn7x1.setText("4");
         cont++;
         jbtn7x1.setEnabled(false);
     }//GEN-LAST:event_jbtn7x1ActionPerformed
@@ -1217,7 +1217,7 @@ public class MapaDoJogo extends javax.swing.JFrame {
     }//GEN-LAST:event_jbtn7x3ActionPerformed
 
     private void jbtn7x4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn7x4ActionPerformed
-        jbtn7x4.setText("6");
+       jbtn7x4.setText("6");
         cont++;
         jbtn7x4.setEnabled(false);
     }//GEN-LAST:event_jbtn7x4ActionPerformed
@@ -1231,7 +1231,7 @@ public class MapaDoJogo extends javax.swing.JFrame {
     private void jbtn7x6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn7x6ActionPerformed
         jbtn7x6.setText("8");
         cont++;
-        jbtn7x6.setEnabled(false);
+        this.setEnabled(false);
     }//GEN-LAST:event_jbtn7x6ActionPerformed
 
     private void jbtn7x7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn7x7ActionPerformed
@@ -1271,7 +1271,7 @@ public class MapaDoJogo extends javax.swing.JFrame {
     }//GEN-LAST:event_jbtn8x4ActionPerformed
 
     private void jbtn8x5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn8x5ActionPerformed
-        jbtn8x5.setText("7");
+       jbtn8x5.setText("7");
         cont++;
         jbtn8x5.setEnabled(false);
     }//GEN-LAST:event_jbtn8x5ActionPerformed
@@ -1291,37 +1291,37 @@ public class MapaDoJogo extends javax.swing.JFrame {
     /**
      * @param args the command line arguments
      */
-//    public static void main(String args[]) {
-//        /* Set the Nimbus look and feel */
-//        //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
-//        /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
-//         * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
-//         */
-//        try {
-//            for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
-//                if ("Nimbus".equals(info.getName())) {
-//                    javax.swing.UIManager.setLookAndFeel(info.getClassName());
-//                    break;
-//                }
-//            }
-//        } catch (ClassNotFoundException ex) {
-//            java.util.logging.Logger.getLogger(MapaDoJogo.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-//        } catch (InstantiationException ex) {
-//            java.util.logging.Logger.getLogger(MapaDoJogo.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-//        } catch (IllegalAccessException ex) {
-//            java.util.logging.Logger.getLogger(MapaDoJogo.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-//        } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-//            java.util.logging.Logger.getLogger(MapaDoJogo.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-//        }
-//        //</editor-fold>
-//
-//        /* Create and display the form */
-//        java.awt.EventQueue.invokeLater(new Runnable() {
-//            public void run() {
-//                new MapaDoJogo().setVisible(true);
-//            }
-//        });
-//    }
+    public static void main(String args[]) {
+        /* Set the Nimbus look and feel */
+        //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
+        /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
+         * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
+         */
+        try {
+            for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
+                if ("Nimbus".equals(info.getName())) {
+                    javax.swing.UIManager.setLookAndFeel(info.getClassName());
+                    break;
+                }
+            }
+        } catch (ClassNotFoundException ex) {
+            java.util.logging.Logger.getLogger(MapaDoJogo.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        } catch (InstantiationException ex) {
+            java.util.logging.Logger.getLogger(MapaDoJogo.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        } catch (IllegalAccessException ex) {
+            java.util.logging.Logger.getLogger(MapaDoJogo.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        } catch (javax.swing.UnsupportedLookAndFeelException ex) {
+            java.util.logging.Logger.getLogger(MapaDoJogo.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        }
+        //</editor-fold>
+
+        /* Create and display the form */
+        java.awt.EventQueue.invokeLater(new Runnable() {
+            public void run() {
+                new MapaDoJogo().setVisible(true);
+            }
+        });
+    }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JToggleButton jToggleButton13;
